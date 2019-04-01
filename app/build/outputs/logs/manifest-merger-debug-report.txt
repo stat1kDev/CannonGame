@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7466e922c4d92081960cd1265278a826\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\997c70c632d5e301483730989a5375e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0965d300e644f1e42e2778f5ff945ca7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\220483ca5e3a38bd279dc5f6e1302f79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ad131b24238390ae4e56dd750bba8844\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bcefaf86d0958a1b0559fa853b8a2e08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\507fa1799b2defaefd718bb1389f6a9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5e4a05d162bb1e5377ac5216f556a5f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\65aa1d6dfb4aa9b6c6e47d11e3a39b8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\febf634cf518b440ccf7b193dfb9bc8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\82230c7924a3a3d4d0c00aaee22fd3af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0ee4596dfed5390b6af77e4ca1f238de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\876e60ac44acc9fab429915cba74a5f5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\feec3f5d162c5d52fe87a9a10864eef3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fd09cde029c63fadbcba38a51d1843bb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\435f1b12cdb5ba759ae583ad23c6b331\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb79808dac831f97db132a292fae4482\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0965d300e644f1e42e2778f5ff945ca7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0965d300e644f1e42e2778f5ff945ca7\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.stat1k.cannongame.MainActivity
+ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:screenOrientation
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:15:13-50
+	android:label
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7466e922c4d92081960cd1265278a826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7466e922c4d92081960cd1265278a826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\997c70c632d5e301483730989a5375e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\997c70c632d5e301483730989a5375e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0965d300e644f1e42e2778f5ff945ca7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0965d300e644f1e42e2778f5ff945ca7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\220483ca5e3a38bd279dc5f6e1302f79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\220483ca5e3a38bd279dc5f6e1302f79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ad131b24238390ae4e56dd750bba8844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ad131b24238390ae4e56dd750bba8844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bcefaf86d0958a1b0559fa853b8a2e08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bcefaf86d0958a1b0559fa853b8a2e08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\507fa1799b2defaefd718bb1389f6a9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\507fa1799b2defaefd718bb1389f6a9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5e4a05d162bb1e5377ac5216f556a5f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5e4a05d162bb1e5377ac5216f556a5f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\65aa1d6dfb4aa9b6c6e47d11e3a39b8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\65aa1d6dfb4aa9b6c6e47d11e3a39b8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\febf634cf518b440ccf7b193dfb9bc8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\febf634cf518b440ccf7b193dfb9bc8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\82230c7924a3a3d4d0c00aaee22fd3af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\82230c7924a3a3d4d0c00aaee22fd3af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0ee4596dfed5390b6af77e4ca1f238de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0ee4596dfed5390b6af77e4ca1f238de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\876e60ac44acc9fab429915cba74a5f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\876e60ac44acc9fab429915cba74a5f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\feec3f5d162c5d52fe87a9a10864eef3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\feec3f5d162c5d52fe87a9a10864eef3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fd09cde029c63fadbcba38a51d1843bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fd09cde029c63fadbcba38a51d1843bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\435f1b12cdb5ba759ae583ad23c6b331\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\435f1b12cdb5ba759ae583ad23c6b331\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb79808dac831f97db132a292fae4482\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\STAT1K\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb79808dac831f97db132a292fae4482\AndroidManifest.xml:20:5-44
+INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\googleDisk\CannonGame\app\src\main\AndroidManifest.xml
